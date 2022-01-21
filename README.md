@@ -1,8 +1,8 @@
 🖐 Hi! My name is OSHMOS.
+
 I'm a full stack developer who uses Django, a full stack framework.
 
 If you're more curious about me, welcome to my site!
-
 [Who is OSHMOS?](https://oshmos.github.io/)
 
 # 📊 Stats
