@@ -1,6 +1,6 @@
 # OSHMOS
 
-<a href="oshmos.github.io" target=_blank>Who is OSHMOS?</a>
+<a href="https://oshmos.github.io/" target=_blank>Who is OSHMOS?</a>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=OSHMOS)
 
