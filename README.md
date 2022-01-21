@@ -1,4 +1,5 @@
-### Hi there 👋
+# OSHMOS
+### I'M WORLD!
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=OSHMOS)
 
