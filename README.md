@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc46MZEX4mKnOndJ3VJlE-l_vRPyWnu8Dh-Q&usqp=CAU" width="1920px" height="1200px">
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc46MZEX4mKnOndJ3VJlE-l_vRPyWnu8Dh-Q&usqp=CAU" width="100vw" height="62.5vw">
 
 <!--
 **OSHMOS/OSHMOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
