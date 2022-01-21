@@ -1,5 +1,7 @@
 # OSHMOS
-### I'M WORLD!
+
+Who is OSHMOS?
+### oshmos.github.io
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=OSHMOS)
 
