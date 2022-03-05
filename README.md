@@ -8,6 +8,9 @@ If you're more curious about me, welcome to my site!
 [Who is OSHMOS?](https://oshmos.github.io/)
 
 # 📩 Contacts
+___  
+<br/>
+
 - ojames9707@gmail.com
 
 # 📊 Stats
@@ -16,9 +19,42 @@ If you're more curious about me, welcome to my site!
 ![trophy](https://github-profile-trophy.vercel.app/?username=OSHMOS)
 
 ![OSHMOS's github stats](https://github-readme-stats.vercel.app/api?username=OSHMOS&show_icons=true)
+___
+<br/>
 
+# 🔥Experience
+___
+<br/>
+
+- Language
+<br/>
+
+    - Python
+        - [Algorithm](https://github.com/OSHMOS/Python_)
+    - C#
+        - [For Unity](https://github.com/OSHMOS/.NET)
+    - Cpp
+        - [For Unreal](https://github.com/OSHMOS/Cpp_)
+    - HTML, CSS, JavaScript
+        - [For FrontEnd](https://github.com/OSHMOS/JavaScript_)
+        - [Repeat](https://github.com/OSHMOS/JavaScript_Repeat)
+    - Dart
+        - [For Flutter](https://github.com/OSHMOS/Dart_)
+    - Java
+        - [For Spring](https://github.com/OSHMOS/JAVA_)
+<br/>
+<br/>
+- FrameWork
+    - Django
+        - [dev'Rent_zer0_PJT](https://github.com/OSHMOS/devRent_zer0_PJT)
+        - [costaurant](https://github.com/OSHMOS/Codeit_Django)
+        - [costory](https://github.com/OSHMOS/Codeit_Django_2nd)
+    - Flutter
+    - Spring Boot
+
+<br/>
+<hr/>
 ### These are ways I've walked through
-
 ### Coming Soon!
 <!-- <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc46MZEX4mKnOndJ3VJlE-l_vRPyWnu8Dh-Q&usqp=CAU" width="100%" height="62.5%"> -->
 
