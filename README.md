@@ -8,7 +8,7 @@ If you're more curious about me, welcome to my site!
 [Who is OSHMOS?](https://oshmos.github.io/)
 
 # 📩 Contacts
-<br/>
+
 
 - ojames9707@gmail.com
 
@@ -19,13 +19,13 @@ If you're more curious about me, welcome to my site!
 
 ![OSHMOS's github stats](https://github-readme-stats.vercel.app/api?username=OSHMOS&show_icons=true)
 ___
-<br/>
+
 
 # 🔥Experience
-<br/>
+
 
 - Language
-<br/>
+
 
     - Python
         - [Algorithm](https://github.com/OSHMOS/Python_)
@@ -40,8 +40,7 @@ ___
         - [For Flutter](https://github.com/OSHMOS/Dart_)
     - Java
         - [For Spring](https://github.com/OSHMOS/JAVA_)
-<br/>
-<br/>
+
 - FrameWork
     - Django
         - [dev'Rent_zer0_PJT](https://github.com/OSHMOS/devRent_zer0_PJT)
@@ -50,8 +49,6 @@ ___
     - Flutter
     - Spring Boot
 
-<br/>
-<hr/>
 ### These are ways I've walked through
 ### Coming Soon!
 <!-- <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc46MZEX4mKnOndJ3VJlE-l_vRPyWnu8Dh-Q&usqp=CAU" width="100%" height="62.5%"> -->
