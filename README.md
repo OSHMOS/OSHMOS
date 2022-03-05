@@ -8,7 +8,6 @@ If you're more curious about me, welcome to my site!
 [Who is OSHMOS?](https://oshmos.github.io/)
 
 # 📩 Contacts
-___  
 <br/>
 
 - ojames9707@gmail.com
@@ -23,7 +22,6 @@ ___
 <br/>
 
 # 🔥Experience
-___
 <br/>
 
 - Language
