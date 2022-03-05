@@ -18,7 +18,6 @@ If you're more curious about me, welcome to my site!
 ![trophy](https://github-profile-trophy.vercel.app/?username=OSHMOS)
 
 ![OSHMOS's github stats](https://github-readme-stats.vercel.app/api?username=OSHMOS&show_icons=true)
-___
 
 
 # 🔥Experience
