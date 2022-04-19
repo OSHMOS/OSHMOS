@@ -39,7 +39,7 @@ If you're more curious about me, welcome to my site!
         - [FASTAPI](https://github.com/OSHMOS/EXP_FAST_API)
 
 - Main Tool
-    -Git
+    - Git
         -[Git_CLI](https://github.com/OSHMOS/Math_Box)
 
 - Nomad Challenges
