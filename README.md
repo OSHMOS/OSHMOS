@@ -40,7 +40,7 @@ If you're more curious about me, welcome to my site!
 
 - Main Tool
     - Git
-        -[Git_CLI](https://github.com/OSHMOS/Math_Box)
+        - [Git_CLI](https://github.com/OSHMOS/Math_Box)
 
 - Nomad Challenges
     - Python
